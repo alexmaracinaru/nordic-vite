@@ -5,7 +5,7 @@ const ProgramsSection = () => {
   return (
     <div
       id="programs"
-      className="max-w-8xl-custom md:mx-24 mx-12 min1800:mx-auto pt-8"
+      className="max-w-8xl-custom md:mx-24 mx-12 min1800:mx-auto pt-8 md:pb-24"
     >
       <div className="relative inline-block mb-12">
         <h2 className="text-4xl text-navy relative z-10">Our Programs</h2>

@@ -3,7 +3,7 @@ import Internationals from "../images/internationals.png";
 
 const VisionSection = () => {
   return (
-    <div id="vision" className="bg-beige md:py-24 py-12 px-8">
+    <div id="vision" className="bg-beige md:pt-24 py-12 px-8">
       {/* Top Section with text and arrow */}
       <div className="flex justify-between items-end mb-12 min1800:max-w-7xl-custom 2xl:max-w-7xl mx-auto max1540:max-w-5xl max13700:max-w-4xl">
         <p className="text-muted text-xl leading-relaxed max-w-2xl">
