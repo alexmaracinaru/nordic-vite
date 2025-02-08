@@ -22,7 +22,7 @@ function App() {
               <>
                 <Hero />
                 <VisionSection />
-                <PartnersSection />
+                {/* <PartnersSection /> */}
                 <ProgramsSection />
                 <AboutUs />
                 <FAQSection />
